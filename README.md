@@ -13,3 +13,4 @@ The Living City DAO is established and citizen ship is implmented.
 A growing road system is setup which is fuled by the DAO self replenishing cash reserves.
 
 ## Stage Three
+Bountys and other systems are implmented. Citizen content is now allowed but must go through a aproval proccess
